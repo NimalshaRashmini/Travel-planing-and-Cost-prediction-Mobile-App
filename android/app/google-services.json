@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34708085587",
+    "project_id": "exploresae-b71a2",
+    "storage_bucket": "exploresae-b71a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34708085587:android:564dbbca6ec93537251fa6",
+        "android_client_info": {
+          "package_name": "com.examplesae.explore_sae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgLk2r2L5cA_3b8iTEgaBFns_MVCjhmA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+  # Add any additional lint rules you want to customize or disable here.
+  # For example:
+  # avoid_print: false

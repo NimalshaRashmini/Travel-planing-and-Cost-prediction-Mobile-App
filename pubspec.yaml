@@ -1,0 +1,40 @@
+name: explore_sae
+description: A Flutter app for planning smart travel itineraries and cost estimates.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^5.0.0   #if error occurs regarding the carosle conflicts change the version in to 5.0.0
+  flutter_spinkit: ^5.1.0
+  syncfusion_flutter_charts: ^21.1.41
+  http: ^1.1.0  # Updated to match the requirement of weather package
+  weather: ^3.1.1
+  intl: ^0.19.0
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/test_image.jpg
+    - assets/img.png
+    - assets/singapore.jpg
+    - assets/thailand.jpeg
+    - assets/malaysia.webp
+    - assets/abc.jpg
+    - assets/travel1.jpg
+    - assets/travel4.jpg
+    - assets/splash.jpg
+    - assets/travel6.jpg
+    - assets/splash1.jpg
